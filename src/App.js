@@ -10,7 +10,7 @@ function App() {
      <div>
       <Jumbotron fluid>
         <Container fluid>
-          <h1 className="display-3">WELCOME TO BOOTCAMP - JULY 18 EDITION</h1>
+          <h1 className="display-3">WELCOME TO BOOTCAMP - NOV 8 EDITION</h1>
           <p className="lead">My Name is Sachin Rajgire and I am instructor  </p>
           <NavBar />
 
@@ -28,7 +28,7 @@ function App() {
           <th scope="row">1</th>
           <td>Master Sheet</td>
           <td>This is link to master sheet which has links to everything el</td>
-          <td><a href="https://docs.google.com/spreadsheets/d/1LP8zSW6I1teJ7RoLqdRtWoU7s3o2A3QxfQMmEW1wXCQ/edit?usp=sharing"> Mastersheet</a></td>
+          <td><a href="https://docs.google.com/spreadsheets/d/1YEpRG5kT6Q9wIs4XNILCvYCr4C0-OAx7jod-bQY1Nkw/edit#gid=2047641163"> Mastersheet</a></td>
         </tr>
       <tr>
           <th scope="row">3</th>
